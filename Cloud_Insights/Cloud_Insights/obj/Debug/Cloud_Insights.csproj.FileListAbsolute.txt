@@ -1,0 +1,17 @@
+E:\ff\Documents\Visual Studio 2013\Projects\Cloud_Insights\Cloud_Insights\bin\Debug\Cloud_Insights.exe.config
+E:\ff\Documents\Visual Studio 2013\Projects\Cloud_Insights\Cloud_Insights\obj\Debug\Cloud_Insights.exe
+E:\ff\Documents\Visual Studio 2013\Projects\Cloud_Insights\Cloud_Insights\obj\Debug\Cloud_Insights.pdb
+C:\Users\Ahmed\Documents\Visual Studio 2013\Projects\Cloud_Insights\Cloud_Insights\bin\Debug\Cloud_Insights.exe
+C:\Users\Ahmed\Documents\Visual Studio 2013\Projects\Cloud_Insights\Cloud_Insights\bin\Debug\Cloud_Insights.pdb
+C:\Users\Ahmed\Documents\Visual Studio 2013\Projects\Cloud_Insights\Cloud_Insights\bin\Debug\Cloud_Insights.exe.config
+C:\Users\Ahmed\Documents\Visual Studio 2013\Projects\Cloud_Insights\Cloud_Insights\bin\Debug\Cloud_Insights.exe.manifest
+C:\Users\Ahmed\Documents\Visual Studio 2013\Projects\Cloud_Insights\Cloud_Insights\bin\Debug\Cloud_Insights.application
+C:\Users\Ahmed\Documents\Visual Studio 2013\Projects\Cloud_Insights\Cloud_Insights\obj\Debug\Cloud_Insights.Cloud_Insights_LMachine.resources
+C:\Users\Ahmed\Documents\Visual Studio 2013\Projects\Cloud_Insights\Cloud_Insights\obj\Debug\Cloud_Insights.Cloud_Insights_Login.resources
+C:\Users\Ahmed\Documents\Visual Studio 2013\Projects\Cloud_Insights\Cloud_Insights\obj\Debug\Cloud_Insights.Properties.Resources.resources
+C:\Users\Ahmed\Documents\Visual Studio 2013\Projects\Cloud_Insights\Cloud_Insights\obj\Debug\Cloud_Insights.csproj.GenerateResource.Cache
+C:\Users\Ahmed\Documents\Visual Studio 2013\Projects\Cloud_Insights\Cloud_Insights\obj\Debug\Cloud_Insights.exe.manifest
+C:\Users\Ahmed\Documents\Visual Studio 2013\Projects\Cloud_Insights\Cloud_Insights\obj\Debug\Cloud_Insights.application
+C:\Users\Ahmed\Documents\Visual Studio 2013\Projects\Cloud_Insights\Cloud_Insights\obj\Debug\Cloud_Insights.exe
+C:\Users\Ahmed\Documents\Visual Studio 2013\Projects\Cloud_Insights\Cloud_Insights\obj\Debug\Cloud_Insights.pdb
+C:\Users\Ahmed\Documents\Visual Studio 2013\Projects\Cloud_Insights\Cloud_Insights\obj\Debug\Cloud_Insights.csprojResolveAssemblyReference.cache
